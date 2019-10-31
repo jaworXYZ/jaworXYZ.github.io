@@ -12,6 +12,6 @@ I have a unique background with experience in engineering, education, and busine
 
 I recently sold a pizza restaurant, and am excited to pursue a career in data and machine learning.
 
-### Contact me
+### Contact
 
-[email@domain.com](mailto:email@domain.com)
+Please find me on LinkedIn!

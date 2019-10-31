@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Page 1
+mathjax: true
 permalink: /page1/
 ---
 
